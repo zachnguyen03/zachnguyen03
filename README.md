@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on Research Assistant at Seoul National University of Science and Technology<br>🌱 Current topics of interest: Computer Vision, Generative AI, Cloud Computing, Database Modelling<br>⚡ 
+🔭 I’m currently working as a Research Assistant at Seoul National University of Science and Technology<br>
+🌱 Current topics of interest: Generative AI, Image-to-Image Translation <br>
+⚡  Wanting to learn: Diffusion Models (DDPM), Cloud Computing, LLMs
 
 
 ## 🌐 Socials:
