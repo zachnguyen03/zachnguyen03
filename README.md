@@ -1,6 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working as a Research Assistant at Seoul National University of Science and Technology<br>
-🌱 Current topics of interest: Generative AI, Image-to-Image Translation <br>
+🔭 I’m currently a PhD Candidate at Seoul National University of Science and Technology<br>
+🌱 Current topics of research: Generative AI, Image-to-Image Translation, Diffusion-based Image Editing <br>
 ⚡  Wanting to learn: Diffusion Models (DDPM), Cloud Computing, LLMs
 
 
